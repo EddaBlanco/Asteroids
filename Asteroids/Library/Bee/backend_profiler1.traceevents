@@ -1,0 +1,497 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1695753736748602, "dur":1137, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736749756, "dur":34, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1695753736749806, "dur":9, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1695753736749815, "dur":400, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1695753736750235, "dur":333, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736750568, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736811813, "dur":156, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736811969, "dur":81, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812050, "dur":15, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812065, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812075, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812076, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812079, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812080, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812083, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812084, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812086, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812087, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812090, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812091, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812094, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812095, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812098, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812098, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812101, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812102, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812105, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812105, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812108, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812109, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812113, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812113, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812116, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812117, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812120, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812121, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812123, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812124, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812127, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812138, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736812151, "dur":1157, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1695753736750646, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736750646, "dur":2846, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736753496, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1695753736753629, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736756281, "dur":1769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1695753736758099, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1695753736758146, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736758151, "dur":1717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1695753736759925, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736760061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736760844, "dur":5924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736766861, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736766962, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736766966, "dur":6008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736773052, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736773122, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736773125, "dur":6265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736779503, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736779594, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736779608, "dur":6273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736785978, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736786049, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736786052, "dur":6047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736792230, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736792303, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736792307, "dur":6299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736798705, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736798976, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695753736798980, "dur":4481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695753736803536, "dur":8275, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736750445, "dur":128, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736750574, "dur":2915, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736753496, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1695753736753498, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736753613, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1695753736753616, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736756248, "dur":1912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1695753736758162, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1695753736758212, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736758215, "dur":1862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1695753736760144, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736760274, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736761028, "dur":5518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736766635, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736766708, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736766714, "dur":6064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736772854, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736772929, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736772932, "dur":6368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736779407, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736779538, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736779545, "dur":6256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736785932, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736786017, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736786020, "dur":5983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736792090, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736792221, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736792224, "dur":6165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736798454, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736798513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695753736798517, "dur":4734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695753736803391, "dur":8429, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736750506, "dur":70, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736750576, "dur":2917, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736753497, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695753736753642, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736758978, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695753736760418, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736760529, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736761276, "dur":5791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736767172, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736767282, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736767285, "dur":5997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736773347, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736773451, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736773454, "dur":6275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736779805, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736779924, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736779929, "dur":6107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736786102, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736786164, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736786167, "dur":6121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736792449, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736792573, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736792577, "dur":6256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695753736798985, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1695753736799108, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736799254, "dur":1887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1695753736801257, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1695753736801381, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695753736801388, "dur":4146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1695753736805639, "dur":6191, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736750624, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736750625, "dur":2913, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736753538, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1695753736753630, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736755916, "dur":2099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1695753736758053, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1695753736758088, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736758092, "dur":1540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1695753736759676, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids.exe" }}
+,{ "pid":12345, "tid":4, "ts":1695753736759810, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736759813, "dur":2032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids.exe" }}
+,{ "pid":12345, "tid":4, "ts":1695753736761997, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736762145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736762150, "dur":7045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736769263, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736769623, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736769627, "dur":6382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736776073, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736776131, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736776135, "dur":6504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736782703, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736782778, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736782781, "dur":6167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736789031, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736789536, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736789539, "dur":6105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736795731, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736795878, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736795881, "dur":6856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695753736802891, "dur":556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1695753736803449, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695753736803453, "dur":2304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1695753736805810, "dur":6004, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736750664, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736750665, "dur":2832, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736753497, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1695753736753674, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736763370, "dur":1341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1695753736764757, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736764835, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736764838, "dur":6497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736771420, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736771489, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736771505, "dur":6177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736777761, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736777827, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736777830, "dur":6405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736784390, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736784458, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736784461, "dur":6251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736790850, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736790977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736790981, "dur":6236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736797296, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736797364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736797367, "dur":5374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695753736802884, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1695753736803004, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695753736803010, "dur":2521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1695753736805631, "dur":6188, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736750746, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736750746, "dur":2793, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736753539, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1695753736753663, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736761229, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1695753736762931, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736763078, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736763085, "dur":7088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736770246, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736770304, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736770307, "dur":6134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736776522, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736776584, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736776587, "dur":6481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736783138, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736783198, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736783238, "dur":6225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736789551, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736789625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736789629, "dur":5996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736795713, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736795877, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695753736795880, "dur":7123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695753736803217, "dur":8599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736750680, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736750680, "dur":2815, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736753497, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1695753736753665, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736762603, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1695753736764321, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736764390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736764394, "dur":6699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736771174, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736771261, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736771264, "dur":6250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736777594, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736777729, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736777732, "dur":6384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736784213, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736784380, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736784383, "dur":6309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736790803, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736790919, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736790923, "dur":7054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736798042, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736798096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695753736798099, "dur":7157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695753736805343, "dur":6482, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736750836, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736750836, "dur":2658, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736753496, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1695753736753640, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736758031, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1695753736759831, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1695753736759887, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736760715, "dur":4455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1695753736765210, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736765277, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736765281, "dur":6316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736771663, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736771722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736771725, "dur":6162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736777949, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736778006, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736778009, "dur":6443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736784517, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736784573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736784576, "dur":6269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736790976, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736791062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736791066, "dur":6405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736797538, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736797668, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695753736797672, "dur":5412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695753736803286, "dur":8537, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736750772, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736750772, "dur":2718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736753497, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1695753736753665, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736762298, "dur":1572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1695753736763956, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736764056, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736764065, "dur":6819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736770958, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736771032, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736771035, "dur":6262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736777387, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736777453, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736777456, "dur":6388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736783907, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736783965, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736783968, "dur":6601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736790635, "dur":463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736791100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736791103, "dur":6435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736797672, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736797775, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695753736797779, "dur":5268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695753736803265, "dur":8547, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736750883, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736750883, "dur":2622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736753506, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1695753736753595, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736755587, "dur":2612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1695753736758248, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736758284, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736758612, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736760539, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736760672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736761344, "dur":5863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736767300, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736767404, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736767407, "dur":5951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736773452, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736773517, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736773520, "dur":6402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736780020, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736780117, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736780121, "dur":6159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736786346, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736786405, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736786407, "dur":5978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736792551, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736792625, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736792628, "dur":6263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695753736799027, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695753736799108, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736799112, "dur":2210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695753736801417, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695753736801535, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695753736801539, "dur":3298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1695753736804911, "dur":6911, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736750854, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736750854, "dur":2641, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736753497, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1695753736753656, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736760365, "dur":1747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1695753736762200, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736762348, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736762357, "dur":7079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736769510, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736769590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736769594, "dur":6262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736775923, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736775987, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736775990, "dur":6479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736782536, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736782613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736782618, "dur":6253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736788941, "dur":418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736789361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736789364, "dur":6116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736795549, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736795613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736795617, "dur":6277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695753736802061, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1695753736802201, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695753736802206, "dur":2769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1695753736805045, "dur":6776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736750945, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736750945, "dur":2556, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736753501, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1695753736753630, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736755777, "dur":2462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1695753736758275, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736758315, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736758752, "dur":5908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736764708, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736764808, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736764812, "dur":6366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736771273, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736771342, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736771346, "dur":6196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736777611, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736777749, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736777754, "dur":6415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736784253, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736784392, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736784395, "dur":6235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736790716, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736790874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736790877, "dur":6201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736797162, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736797236, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695753736797252, "dur":5723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695753736803215, "dur":8600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736750871, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736750871, "dur":2665, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736753537, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1695753736753622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736757033, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1695753736758516, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736758582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736758586, "dur":11740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736770369, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736770450, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736770454, "dur":6301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736776825, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736776890, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736776893, "dur":6349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736783317, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736783376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736783379, "dur":6111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736789586, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736789844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736789847, "dur":5872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736795884, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736795978, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736795982, "dur":6286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695753736802390, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1695753736802501, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695753736802506, "dur":2924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1695753736805503, "dur":6321, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736751033, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736751033, "dur":2465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736753500, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1695753736753644, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736759758, "dur":1791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1695753736761600, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736761705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736761710, "dur":6567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736768367, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736768484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736768489, "dur":6675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736775239, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736775318, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736775323, "dur":6384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736781774, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736781845, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736781848, "dur":6039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736787965, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736788206, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736788209, "dur":5822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736794195, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736794270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736794273, "dur":5901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695753736800279, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1695753736800636, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695753736800640, "dur":2518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1695753736803263, "dur":8550, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736751048, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736751048, "dur":2448, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736753498, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1695753736753596, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736757804, "dur":1246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1695753736759089, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":15, "ts":1695753736759123, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736759125, "dur":2247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":15, "ts":1695753736761430, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736761532, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736761701, "dur":6558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736768349, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736768438, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736768441, "dur":5954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736774461, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736774534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736774537, "dur":6629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736781254, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736781316, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736781319, "dur":5967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736787352, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736787414, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736787417, "dur":5900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736793395, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736793460, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736793462, "dur":6055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695753736799596, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1695753736799870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736799876, "dur":2163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1695753736802158, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1695753736802305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695753736802309, "dur":2848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1695753736805229, "dur":6597, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736751078, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736751078, "dur":2459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736753538, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1695753736753640, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736758409, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1695753736760308, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736760460, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736761263, "dur":6039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736767397, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736767465, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736767469, "dur":6017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736773575, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736773648, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736773651, "dur":6280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736780026, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736780114, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736780117, "dur":6028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736786210, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736786267, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736786270, "dur":6003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736792466, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736792578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736792582, "dur":6259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695753736799011, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1695753736799108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695753736799112, "dur":12625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Uni/TERCERO/Trabajo/Juego/Asteroids_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1695753736811790, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":16, "ts":1695753736811792, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695753736814293, "dur":1296, "ph":"X", "name": "ProfilerWriteOutput" }
+,
