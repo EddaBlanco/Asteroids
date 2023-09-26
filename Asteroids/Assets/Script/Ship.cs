@@ -21,7 +21,6 @@
     private List<GameObject> bulletPool = new List<GameObject>();
     private int currentBulletIndex = 0;
 
-    // private List<GameObject> pool = new List<GameObject> ();
 
     // Start is called before the first frame update
     void Start()
@@ -75,18 +74,7 @@
             transform.position = newPos;
 
 
-        /*if (Input.GetKeyDown(KeyCode.Space))//el down solo mw va a dar true cuando pulso una vez el otro es para hcer funcion metralleta
-        {
-        /*Debug.Log("pium piuuuuuuuum!!!!!!");*/
-        ////GameObject bala = Instantiate(bulletPrefab, LanzaMisil.transform.position, Quaternion.identity);//el prefab, el vector dn va a saliry que no va a girar 
-
-        //Bullet balaScript = bala.GetComponent<Bullet>();
-
-        //balaScript.targetVector = (Vector3)transform.right;
-
-        ////bala.transform.rotation = LanzaMisil.transform.rotation;
-        //balaScript.transform.Rotate(Vector3.forward,-rotation);
-        //}
+        
       
 
             if (Input.GetKeyDown(KeyCode.Space))
@@ -111,11 +99,5 @@
 
 
 
-    /*private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Enemy")){
-            SCORE = 0;
-            SceneManager.LoadScene("SampleScene");
-        }
-    }*/
+    
 }

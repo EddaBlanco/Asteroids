@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 67
+  controlID: 92
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 68
+  controlID: 93
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 279
     height: 685
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -270,8 +270,8 @@ MonoBehaviour:
     y: 0
     width: 338
     height: 931
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -402,9 +402,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: d2ceffff20cfffff78d0ffff98d0ffff9ad0ffff06e7ffff4ae7ffffa2e8ffffc2e8ffffc4e8ffff20faffff1c5800005a640000
+      m_SelectedIDs: 38f1ffff
+      m_LastClickedID: -3784
+      m_ExpandedIDs: 38f1ffff12f3ffff70f5ffff20faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -654,9 +654,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.4414247, y: -0.95682245, z: -0.41296214}
+    m_Target: {x: 1.4622452, y: -0.8268185, z: -0.43193254}
     speed: 2
-    m_Value: {x: 1.4414247, y: -0.95682245, z: -0.41296214}
+    m_Value: {x: 1.4622452, y: -0.8268185, z: -0.43193254}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -707,9 +707,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 2.2267184
+    m_Target: 4.12376
     speed: 2
-    m_Value: 2.2267184
+    m_Value: 4.12376
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -816,14 +816,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Script
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Uni\TERCERO\Trabajo\Asteroids
+  m_LastProjectPath: D:\Uni\TERCERO\Prac_1\Asteroids
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 147}
-    m_SelectedIDs: 14590000
-    m_LastClickedID: 22804
-    m_ExpandedIDs: 0000000004590000105900001e59000000ca9a3b
+    scrollPos: {x: 0, y: 55}
+    m_SelectedIDs: 6a590000
+    m_LastClickedID: 22890
+    m_ExpandedIDs: 000000000459000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
